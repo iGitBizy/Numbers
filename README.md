@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jessietolbertmsba
-- 👀 I’m interested in building software and applications using python libraries
+- 👋 Hi, I’m Jessie aka Mr. @iGitBizy
+- 👀 I’m interested in all Data Science and Data Engineering projects
 - 🌱 I’m currently learning R and Python
 - 📫 How to reach email: jessietolbertmsba@gmail.com or via linkedin: https://www.linkedin.com/in/jtolbertiii/
 
